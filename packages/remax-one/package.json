@@ -35,7 +35,6 @@
   "dependencies": {
     "@remax/ali": "2.8.9",
     "@remax/framework-shared": "^0.0.1",
-    "@remax/router": "2.8.9",
     "@remax/runtime": "2.8.9",
     "@remax/toutiao": "2.8.9",
     "@remax/wechat": "2.8.9",
